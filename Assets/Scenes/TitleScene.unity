@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028305, g: 0.22571313, b: 0.3069213, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -271,7 +271,7 @@ GameObject:
   - component: {fileID: 569808019}
   - component: {fileID: 569808018}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: TitleCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -599,8 +599,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u30BF\u30A4\u30C8\u30EB"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b03f641c097bc48888efe6a70ebf5472, type: 2}
-  m_sharedMaterial: {fileID: 6069694067841819093, guid: b03f641c097bc48888efe6a70ebf5472, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1c344ceb255414e258900ff1a27cc89e, type: 2}
+  m_sharedMaterial: {fileID: -4133270987022532814, guid: 1c344ceb255414e258900ff1a27cc89e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
